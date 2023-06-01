@@ -1,0 +1,15 @@
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\bin\Debug\netstandard2.0\Xamarin_SQLite.deps.json
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\bin\Debug\netstandard2.0\Xamarin_SQLite.dll
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\bin\Debug\netstandard2.0\ref\Xamarin_SQLite.dll
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\bin\Debug\netstandard2.0\Xamarin_SQLite.pdb
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.AssemblyInfoInputs.cache
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.AssemblyInfo.cs
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.csproj.CoreCompileInputs.cache
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.dll
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\ref\Xamarin_SQLite.dll
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.pdb
+C:\Users\vadie\source\repos\Xamarin_SQLite\Xamarin_SQLite\obj\Debug\netstandard2.0\Xamarin_SQLite.csproj.AssemblyReference.cache
